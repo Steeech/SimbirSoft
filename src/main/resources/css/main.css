@@ -1,0 +1,23 @@
+
+body {
+    background: linear-gradient(135deg, #d1eff6 0%, #7bb1f3 100%, #376bc5 100%);
+    background-attachment: fixed;
+}
+
+.card {
+    border-radius: 10px;
+    background: #7594da75;
+    border: 5px groove #99d6ff;
+    box-shadow: 0 1px 2px 0 rgb(255, 255, 255), 0 1px 10px 0 rgb(255, 255, 255);
+    margin-bottom: 1.5rem;
+    padding: 1.6rem 1rem;
+    width: 50%;
+    margin-left: 25%;
+
+}
+.header .cover-heading {
+    font-size: 58px;
+    color: #fcfdff;
+    margin-top: 1.6rem;
+    margin-bottom: 1.6rem;
+}
